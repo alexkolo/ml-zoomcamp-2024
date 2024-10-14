@@ -4,3 +4,4 @@ pandas==2.2.2
 ipykernel==6.29.5 # for jupyter notebook
 seaborn==0.13.2
 scikit-learn==1.5.2
+tqdm==4.66.5
