@@ -6,3 +6,5 @@ seaborn==0.13.2
 scikit-learn==1.5.2
 tqdm==4.66.5
 flask==3.0.3
+requests==2.32.3
+gunicorn==23.0.0
